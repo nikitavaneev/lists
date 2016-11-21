@@ -3,7 +3,6 @@
 
 
 #include <stdio.h>
-#include "stdafx.h"
 struct node
 {
 	char s;
